@@ -31,3 +31,5 @@ C:\Users\keylo\Desktop\GitProjectsCourse\Veterinaria\EnfermedadesApi\obj\Debug\n
 C:\Users\keylo\Desktop\GitProjectsCourse\Veterinaria\EnfermedadesApi\obj\Debug\net8.0\EnfermedadesApi.pdb
 C:\Users\keylo\Desktop\GitProjectsCourse\Veterinaria\EnfermedadesApi\obj\Debug\net8.0\EnfermedadesApi.genruntimeconfig.cache
 C:\Users\keylo\Desktop\GitProjectsCourse\Veterinaria\EnfermedadesApi\obj\Debug\net8.0\ref\EnfermedadesApi.dll
+C:\Users\keylo\Desktop\GitProjectsCourse\Veterinaria\EnfermedadesApi\bin\Debug\net8.0\global.json
+C:\Users\keylo\Desktop\GitProjectsCourse\Veterinaria\EnfermedadesApi\obj\Debug\net8.0\EnfermedadesApi.sourcelink.json
